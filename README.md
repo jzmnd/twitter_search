@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/jzmnd/twitter_search.svg?branch=master)](https://travis-ci.org/jzmnd/twitter_search)
+[![Build Status](https://github.com/jzmnd/twitter_search/workflows/Build%20Test/badge.svg?branch=master)](https://github.com/jzmnd/twitter_search/actions?query=workflow%3ABuild%20Test)
 [![codecov](https://codecov.io/gh/jzmnd/twitter_search/branch/master/graph/badge.svg)](https://codecov.io/gh/jzmnd/twitter_search)
 
 # twitter-search
